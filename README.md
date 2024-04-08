@@ -53,8 +53,8 @@ npm install
 4. Create a `.env` file in the root directory, and add the following lines.
 
 ```env
- NAME='Name of the Receiever'
- PIC='name-of-image.extension'
+ NAME='Tala'
+ PIC='https://telegra.ph/Happy-Birthday-04-08-31'
 
 ```
 
